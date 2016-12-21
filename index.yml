@@ -6,4 +6,4 @@ services:
 consoles:
 - alpine
 engines:
-- docker-1.12.3
+- docker-1.13.0-rc4
