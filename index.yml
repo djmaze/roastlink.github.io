@@ -10,3 +10,4 @@ engines:
 - docker-1.13.0-rc4
 - docker-1.13.0-rc7
 - docker-17.03.1-ce-rc1
+- docker-17.05.0-ce
